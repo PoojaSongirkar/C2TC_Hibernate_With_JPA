@@ -18,7 +18,7 @@ public class Client
 		// Create Operation
 		
 		//student.setStudentid(1);
-	//student.setName("Avantika ");
+	//student.setName("Pooja");
 	//service.addStudent(student);
 		
 		
@@ -30,9 +30,9 @@ public class Client
 		
 		
 		//Update Operation
-		student  =service.findStudentById(1);
-		student.setName("Avantika ");
-		service.updateStudent(student);
+		//student  =service.findStudentById(1);
+		//student.setName(" Pooja");
+		//service.updateStudent(student);
 		
 		
 	/*	service.findStudentById(101);
